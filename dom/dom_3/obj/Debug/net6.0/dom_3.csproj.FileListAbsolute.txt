@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\dom\dom_3\obj\Debug\net6.0\dom_3.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\dom\dom_3\obj\Debug\net6.0\dom_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\dom\dom_3\obj\Debug\net6.0\dom_3.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\dom\dom_3\obj\Debug\net6.0\dom_3.AssemblyInfo.cs
+C:\Users\admin\Desktop\dom\dom_3\obj\Debug\net6.0\dom_3.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\dom\dom_3\bin\Debug\net6.0\dom_3.exe
+C:\Users\admin\Desktop\dom\dom_3\bin\Debug\net6.0\dom_3.deps.json
+C:\Users\admin\Desktop\dom\dom_3\bin\Debug\net6.0\dom_3.runtimeconfig.json
+C:\Users\admin\Desktop\dom\dom_3\bin\Debug\net6.0\dom_3.dll
+C:\Users\admin\Desktop\dom\dom_3\bin\Debug\net6.0\dom_3.pdb
+C:\Users\admin\Desktop\dom\dom_3\obj\Debug\net6.0\dom_3.dll
+C:\Users\admin\Desktop\dom\dom_3\obj\Debug\net6.0\refint\dom_3.dll
+C:\Users\admin\Desktop\dom\dom_3\obj\Debug\net6.0\dom_3.pdb
+C:\Users\admin\Desktop\dom\dom_3\obj\Debug\net6.0\dom_3.genruntimeconfig.cache
+C:\Users\admin\Desktop\dom\dom_3\obj\Debug\net6.0\ref\dom_3.dll
