@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\dom\dom_4\obj\Debug\net6.0\dom_4.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\dom\dom_4\obj\Debug\net6.0\dom_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\dom\dom_4\obj\Debug\net6.0\dom_4.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\dom\dom_4\obj\Debug\net6.0\dom_4.AssemblyInfo.cs
+C:\Users\admin\Desktop\dom\dom_4\obj\Debug\net6.0\dom_4.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\dom\dom_4\bin\Debug\net6.0\dom_4.exe
+C:\Users\admin\Desktop\dom\dom_4\bin\Debug\net6.0\dom_4.deps.json
+C:\Users\admin\Desktop\dom\dom_4\bin\Debug\net6.0\dom_4.runtimeconfig.json
+C:\Users\admin\Desktop\dom\dom_4\bin\Debug\net6.0\dom_4.dll
+C:\Users\admin\Desktop\dom\dom_4\bin\Debug\net6.0\dom_4.pdb
+C:\Users\admin\Desktop\dom\dom_4\obj\Debug\net6.0\dom_4.dll
+C:\Users\admin\Desktop\dom\dom_4\obj\Debug\net6.0\refint\dom_4.dll
+C:\Users\admin\Desktop\dom\dom_4\obj\Debug\net6.0\dom_4.pdb
+C:\Users\admin\Desktop\dom\dom_4\obj\Debug\net6.0\dom_4.genruntimeconfig.cache
+C:\Users\admin\Desktop\dom\dom_4\obj\Debug\net6.0\ref\dom_4.dll
